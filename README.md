@@ -28,9 +28,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityamore3&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-<div align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=adityamore3&icon=0&color=0" alt="Profile Views"/></a>
-</div>
 
 [![](https://visitcount.itsvg.in/api?id=adityamore3&icon=0&color=0)](https://visitcount.itsvg.in)
 
