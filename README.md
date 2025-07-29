@@ -1,7 +1,14 @@
 <p align="center">
   <strong>Hi 👋, I'm Aditya More</strong><br>
   A passionate full-stack developer based in India
-</p>
+  </p>
+  <p align="Left">
+<a href="https://github.com/adityamore3">
+    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=adityamore3&color=brightgreen" />
+  </a>
+  <a href="https://visitcount.itsvg.in/api?id=adityamore3&icon=0&color=0">
+  </a>
+  </p>
 
 ---
 <img align="right" alt="Coding" width="275" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -30,8 +37,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityamore3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+## 🤝 Let’s Connect
+
+I’m always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to drop me a message!
+
+---
 [![](https://visitcount.itsvg.in/api?id=adityamore3&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
