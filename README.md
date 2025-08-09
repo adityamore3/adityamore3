@@ -18,7 +18,7 @@
 
 👨‍💻 I’m currently working as a Full-stack developer.<br>
 🤝 I’m open for job opportunities.<br>
-🌐 Portfolio: [adityamore3.github.io](https://adityamore3.github.io/My-Portfolio/index.html)<br>
+🌐 Portfolio: <a href="https://adityamore3-portfolio.netlify.app/" target="_blank">adityaportfolio.com</a> <br>
 ✍️ I write spontaneous blogs on Medium to share thoughts beyond code.<br>
 ⚡ Code. Think. Write. Repeat.
 
